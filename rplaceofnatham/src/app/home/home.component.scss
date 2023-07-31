@@ -1,0 +1,42 @@
+header {
+    margin: auto;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+<<<<<<< HEAD
+h3 {
+    font-style: italic;
+}
+
+a {
+    font-style: italic;
+}
+
+img {
+    width: 25%;
+    height: 25%;
+}
+
+
+.div-principal {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+}
+
+.div-child {
+    padding: 20px;
+}
+
+.div-grandson {
+    padding: 20px;
+=======
+a {
+    font-style: italic;
+>>>>>>> 63cd65320e900254a0352c3a33221d35cbf2b70e
+}
